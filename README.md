@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a copy of demos performed in lecture for COMP123 Core Concepts in Computer Science course taught at Macalester College in Fall/Spring 20XX.
+This repository contains a copy of demos performed in lecture for COMP123 Core Concepts in Computer Science course taught at Macalester College in Fall 2025.
 
 
 ## How to Navigate
