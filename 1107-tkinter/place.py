@@ -1,3 +1,5 @@
+# https://www.studytonight.com/tkinter/python-tkinter-geometry-manager
+
 import tkinter as tk
 
 win = tk.Tk()
