@@ -1,0 +1,19 @@
+help me write a Python script that utilize ttkbootstrap to create an app that shows random images upon user click.  The images should come from this api https://cataas.com/cat
+
+make size of the app stay the same
+
+Allow the GUI to change size but resize the photo to stay within the GUI size
+
+Prevent the image from pushing the button downward
+
+show an animation when the image is being loaded
+
+I received an error AttributeError: type object 'StyleBuilderTTK' has no attribute 'create_striped_floodgauge_style'. Did you mean: 'create_floodgauge_style'?
+
+Can you show the loading in the botton text
+
+Can you re-write the same program but using CustomTkinter
+
+Can you make the app respond the the Enter keyboard click
+
+put all the code togother
