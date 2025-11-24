@@ -1,5 +1,5 @@
 """
-Generated using Gemini through a series of prompts in cut_images.prompts
+Generated using Gemini through a series of prompts in cut_images.gemini_prompts
 """
 
 import customtkinter as ctk
